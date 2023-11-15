@@ -7,4 +7,4 @@ Once youhave an account, verify it works by logging in and
 launching a Jupyter notebook by clicking the "Launch JupyterLab" in the upper right of
 the web page [console.cloud.intel.com/training](https://console.cloud.intel.com/training).
 
-2. Download a free copy of the SYCL book from [tinyurl.com/book-SYCL](https://tinyurl.com/book-SYCL).
+2. Download a free copy of the SYCL book (PDF format) from [tinyurl.com/book-SYCL](https://tinyurl.com/book-SYCL).
