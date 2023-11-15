@@ -1,3 +1,3 @@
-# Leearn SYCL fast
+# Learn SYCL fast
 
 Coming in January 2024
