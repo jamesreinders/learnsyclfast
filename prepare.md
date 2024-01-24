@@ -9,7 +9,7 @@ Please do these TWO things before you attend the webinar "Learn SYCL fast."
 
 As an alternative, you are welcome to use any system with a SYCL compiler installed.  We will not have time to help you get that setup so we recommend using the Intel Developer Cloud online as an easy way to ensure you are ready to go.
 
-If you want to get a jump on class - you can go ahead and clone the repo, and then compile and run the program.  Here are the four commands to do that (assuming Linux and a standard Intel tools installation):
+If you want to get a jump on class - you can go ahead and clone the repo, and then compile and run the program.  Here are the exact commands to do that (assuming Linux and a standard Intel tools installation):
 
 ```bash
 git clone --recursive --branch sc23 https://github.com/codeplaysoftware/syclacademy.git
