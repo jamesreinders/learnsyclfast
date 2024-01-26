@@ -16,6 +16,8 @@ git clone --recursive --branch sc23 https://github.com/codeplaysoftware/syclacad
 cd syclacademy/Code_Exercises/Exercise_01_Big_Hello_SYCL/
 source /opt/intel/oneapi/setvars.sh
 cp ../Images/goldfish.png .
+icpx -fsycl -o tiny tiny.cpp
+./tiny
 icpx -fsycl solution.cpp
 ./a.out goldfish.png
 ```
